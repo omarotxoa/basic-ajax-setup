@@ -1,0 +1,1 @@
+simple text data in an external document, called by Ajax and inserted onto the page without refreshing. 
